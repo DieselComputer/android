@@ -270,6 +270,7 @@ ConstraintLayout используется для создания гибких �
 button.setOnClickListener { // код }
 
 **5. Как добавить обработчик нажатия на ImageView?**
+
 imageView.setOnClickListener { // код }
 
 ## Выводы
