@@ -266,12 +266,15 @@ class MainActivity : AppCompatActivity() {
 
 ## Ответы
 **1. Что такое Intent? Какие виды Intent существуют?**
+
 Intent — сообщение для выполнения действия или передачи данных между компонентами.
 
 **2. Как передать данные из одной Activity в другую?**
+
 Через Intent.putExtra("ключ", значение) при запуске, а в целевой Activity — intent.getStringExtra("ключ").
 
 **3. Какие способы обработки кликов на элементах RecyclerView вы знаете?**
+
 - Внутри onBindViewHolder через itemView.setOnClickListener
 
 - Интерфейс-колбэк в адаптере, перехватывающий клик в Activity/Fragment
@@ -279,9 +282,11 @@ Intent — сообщение для выполнения действия ил�
 - Использование библиотек вроде RecyclerViewSelectionTracker
 
 **4. Как создать новую Activity в Android Studio?**
+
 Нажать правой кнопкой на папке java → New → Activity → выбрать тип (Empty/Basic), задать имя.
 
 **5. Для чего используется метод finish()?**
+
 Закрывает текущую Activity и удаляет её из стека (возврат к предыдущей Activity, если она есть).
 
 ## Выводы
