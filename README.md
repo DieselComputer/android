@@ -229,7 +229,7 @@ class MainActivity : AppCompatActivity() {
 }
 ```
 ## Работающее приложение на виртуальном устройстве
-
+<img width="317" height="663" alt="image" src="https://github.com/user-attachments/assets/4e8ebac9-36e1-4a4f-8cd2-37eead217aec" />
 
 ## Ответы
 **1. Для чего нужен RecyclerView? Чем он лучше ListView?**
