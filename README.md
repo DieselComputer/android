@@ -332,7 +332,7 @@ class MainActivity : AppCompatActivity() {
 ```
 
 ## Работающее приложение на виртуальном устройстве
-
+<img width="339" height="713" alt="image" src="https://github.com/user-attachments/assets/137c77bd-51b8-4154-a8c9-72811287b50b" />
 
 ## Ответы
 **1. Почему длительные операции нельзя выполнять в главном потоке?**
